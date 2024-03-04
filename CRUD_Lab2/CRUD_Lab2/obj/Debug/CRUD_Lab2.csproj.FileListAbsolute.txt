@@ -1,0 +1,16 @@
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\bin\Debug\CRUD_Lab2.exe.config
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\bin\Debug\CRUD_Lab2.exe
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\bin\Debug\CRUD_Lab2.pdb
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.csproj.AssemblyReference.cache
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.Properties.Resources.resources
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.csproj.GenerateResource.cache
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.exe
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.pdb
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.frm_Crud.resources
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.frmCrud.resources
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.frm_Course.resources
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.frm_enrollment.resources
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.frm_attendance.resources
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.frm_desktop.resources
+C:\Users\Feb12\source\repos\CRUD_Lab2\CRUD_Lab2\obj\Debug\CRUD_Lab2.UserControl1.resources
